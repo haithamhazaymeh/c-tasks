@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\tasks22-11\tasks22-11\bin\Debug\tasks22-11.exe.config
+C:\Users\dell\source\repos\tasks22-11\tasks22-11\bin\Debug\tasks22-11.exe
+C:\Users\dell\source\repos\tasks22-11\tasks22-11\bin\Debug\tasks22-11.pdb
+C:\Users\dell\source\repos\tasks22-11\tasks22-11\obj\Debug\tasks22-11.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\tasks22-11\tasks22-11\obj\Debug\tasks22-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\tasks22-11\tasks22-11\obj\Debug\tasks22-11.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\tasks22-11\tasks22-11\obj\Debug\tasks22-11.exe
+C:\Users\dell\source\repos\tasks22-11\tasks22-11\obj\Debug\tasks22-11.pdb
