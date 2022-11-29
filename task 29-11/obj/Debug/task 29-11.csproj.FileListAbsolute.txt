@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\test45\test45\bin\Debug\test45.exe.config
+C:\Users\dell\source\repos\test45\test45\bin\Debug\test45.exe
+C:\Users\dell\source\repos\test45\test45\bin\Debug\test45.pdb
+C:\Users\dell\source\repos\test45\test45\obj\Debug\task 29-11.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\test45\test45\obj\Debug\task 29-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\test45\test45\obj\Debug\task 29-11.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\test45\test45\obj\Debug\test45.exe
+C:\Users\dell\source\repos\test45\test45\obj\Debug\test45.pdb
